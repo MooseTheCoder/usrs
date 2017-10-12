@@ -7,7 +7,7 @@ $password 	= "";
 $database 	= "usrs";
 $host 		= "localhost";
 $userTable 	= "users";
-$db			= mysqli_connect($host,$username,$password,$database);
+$db		= mysqli_connect($host,$username,$password,$database);
 
 /* END CONNECTION STUFF */
 
