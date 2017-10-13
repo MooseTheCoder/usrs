@@ -23,7 +23,7 @@ Dump data from all users
 Dump data for a given user   
 
     dumpUserData(1);
-Create a new use     
+Create a new user     
 
     createUser(['username'=>'newUser','password'=>s('newPassword')]);
 Update a users Password
